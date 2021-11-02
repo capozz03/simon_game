@@ -197,7 +197,6 @@ label + input[type=radio] + label {
     max-height: 70px;
     color: #000;
     border: 8px solid #2e2e2e;
-    line-height: 17px;
   }
   
   .start_button {
@@ -206,6 +205,7 @@ label + input[type=radio] + label {
     min-height: 70px;
     max-height: 70px;
     font-size: 17px;
+    line-height: 17px;
   }
   
   .score {
