@@ -214,13 +214,12 @@ label + input[type=radio] + label {
   }
   
   .final_score {
-    line-height: 12px;
-    padding: 5px;
-    font-size: 8px;
+    line-height: 10px;
+    font-size: 12px;
   }
   
   .newGame_button {
-    font-size: 6px;
+    font-size: 8px;
   }
   #game__colors {
     max-width: 185px;
@@ -301,12 +300,12 @@ label + input[type=radio] + label {
   }
   
   .final_score {
-    line-height: 10px;
-    font-size: 10px;
+    line-height: 16px;
+    font-size: 16px;
   }
   
   .newGame_button {
-    font-size: 6px;
+    font-size: 12px;
   }
   #game__colors {
     max-width: 275px;
