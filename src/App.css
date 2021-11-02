@@ -181,7 +181,7 @@ label + input[type=radio] + label {
     margin: 50% 15%;
   }
   .game__wrapper {
-    margin: 0.3rem 0.3rem;
+    margin: 0.3rem 0;
     box-shadow: 0px 0px 18px rgba(0,0,0,.6);
     max-width: 200px;
     min-width: 200px;
@@ -204,8 +204,9 @@ label + input[type=radio] + label {
     max-width: 70px;
     min-height: 70px;
     max-height: 70px;
-    font-size: 17px;
-    line-height: 17px;
+    font-size: 18px;
+    line-height: 18px;
+    padding: 0;
   }
   
   .score {
@@ -267,7 +268,7 @@ label + input[type=radio] + label {
     margin: 30% 15%;
   }
   .game__wrapper {
-    margin: 0.3rem 0.3rem;
+    margin: 0.3rem 0;
     box-shadow: 0px 0px 18px rgba(0,0,0,.6);
     max-width: 300px;
     min-width: 300px;
