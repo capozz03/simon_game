@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/simon_game/static/css/main.b74e6dab.chunk.css",
+    "main.js": "/simon_game/static/js/main.c537a2ee.chunk.js",
+    "main.js.map": "/simon_game/static/js/main.c537a2ee.chunk.js.map",
+    "runtime-main.js": "/simon_game/static/js/runtime-main.fef98326.js",
+    "runtime-main.js.map": "/simon_game/static/js/runtime-main.fef98326.js.map",
+    "static/js/2.7bdde4b4.chunk.js": "/simon_game/static/js/2.7bdde4b4.chunk.js",
+    "static/js/2.7bdde4b4.chunk.js.map": "/simon_game/static/js/2.7bdde4b4.chunk.js.map",
+    "static/js/3.d1eff06a.chunk.js": "/simon_game/static/js/3.d1eff06a.chunk.js",
+    "static/js/3.d1eff06a.chunk.js.map": "/simon_game/static/js/3.d1eff06a.chunk.js.map",
+    "index.html": "/simon_game/index.html",
+    "static/css/main.b74e6dab.chunk.css.map": "/simon_game/static/css/main.b74e6dab.chunk.css.map",
+    "static/js/2.7bdde4b4.chunk.js.LICENSE.txt": "/simon_game/static/js/2.7bdde4b4.chunk.js.LICENSE.txt",
+    "static/media/blue.6629d159.mp3": "/simon_game/static/media/blue.6629d159.mp3",
+    "static/media/green.c46b9b8f.mp3": "/simon_game/static/media/green.c46b9b8f.mp3",
+    "static/media/red.24c67b31.mp3": "/simon_game/static/media/red.24c67b31.mp3",
+    "static/media/yellow.38b1fd45.mp3": "/simon_game/static/media/yellow.38b1fd45.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fef98326.js",
+    "static/js/2.7bdde4b4.chunk.js",
+    "static/css/main.b74e6dab.chunk.css",
+    "static/js/main.c537a2ee.chunk.js"
+  ]
+}
