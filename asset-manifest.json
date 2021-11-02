@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/simon_game/static/css/main.ea8d73c5.chunk.css",
+    "main.css": "/simon_game/static/css/main.48fe0999.chunk.css",
     "main.js": "/simon_game/static/js/main.c537a2ee.chunk.js",
     "main.js.map": "/simon_game/static/js/main.c537a2ee.chunk.js.map",
     "runtime-main.js": "/simon_game/static/js/runtime-main.fef98326.js",
@@ -10,7 +10,7 @@
     "static/js/3.d1eff06a.chunk.js": "/simon_game/static/js/3.d1eff06a.chunk.js",
     "static/js/3.d1eff06a.chunk.js.map": "/simon_game/static/js/3.d1eff06a.chunk.js.map",
     "index.html": "/simon_game/index.html",
-    "static/css/main.ea8d73c5.chunk.css.map": "/simon_game/static/css/main.ea8d73c5.chunk.css.map",
+    "static/css/main.48fe0999.chunk.css.map": "/simon_game/static/css/main.48fe0999.chunk.css.map",
     "static/js/2.7bdde4b4.chunk.js.LICENSE.txt": "/simon_game/static/js/2.7bdde4b4.chunk.js.LICENSE.txt",
     "static/media/blue.6629d159.mp3": "/simon_game/static/media/blue.6629d159.mp3",
     "static/media/green.c46b9b8f.mp3": "/simon_game/static/media/green.c46b9b8f.mp3",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.fef98326.js",
     "static/js/2.7bdde4b4.chunk.js",
-    "static/css/main.ea8d73c5.chunk.css",
+    "static/css/main.48fe0999.chunk.css",
     "static/js/main.c537a2ee.chunk.js"
   ]
 }
